@@ -20,7 +20,7 @@ _Include the initializer, public properties, and public methods with all paramet
 class TaskTracker():
     def __init__(self):
         # parameters:
-        #   task_list: empty list
+        #   list_incomplete: empty list
 
     def add_task(self, task):
         # parameters:
