@@ -1,4 +1,4 @@
-# {{PROBLEM}} Class Design Recipe
+# {{TaskTracker}} Class Design Recipe
 
 ## 1. Describe the Problem
 
