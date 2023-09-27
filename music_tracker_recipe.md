@@ -1,4 +1,4 @@
-# Music Tracker Class Design Recipe
+# {{Music Tracker}} Class Design Recipe
 
 ## 1. Descibe the Problem
 
